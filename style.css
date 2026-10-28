@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #eef2ff;
+    margin: 0;
+    padding: 30px;
+}
+
+main {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 40px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+}
+
+img {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+h1 {
+    color: #875fd1;
+}
+
+h2 {
+    color: #875fd1;
+}
+
+p, li {
+    line-height: 1.7;
+}
